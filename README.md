@@ -60,7 +60,7 @@ There are two components to the application.
 
 6. Press submit to submit attendance data to the database
 
-7. (Optional) If needed, edit attendance by scrolling down on the home screen. A list of dates of previously submitted attendance will be available. Simply tap the date you want to change and update students present.
+(Optional) If needed, edit attendance by scrolling down on the home screen. A list of dates of previously submitted attendance will be available. Simply tap the date you want to change and update students present.
 
   
 ## Admin Usage
