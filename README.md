@@ -28,24 +28,22 @@ There are two components to this application:
 
   
 
-### Prerequisites
--  [Node.js](https://nodejs.org/en/)
+### Languages, Frameworks and Technologies
 -  [PostgreSQL](https://www.postgresql.org/)
--  [Nodemon](https://nodemon.io/)
+ - Express
+ - React 
+-  [Node.js](https://nodejs.org/en/)
+ - CSS3
+ - HTML5
+ - Redux
+-  [Passport](http://www.passportjs.org/) 
+ - Restful API
 -  [React-Chartjs-2](https://www.npmjs.com/package/react-chartjs-2/) 
  -  [React-Select-Search](https://www.npmjs.com/package/react-select-search) 
--  [Passport](http://www.passportjs.org/) 
 -  [Date-Fns](https://www.npmjs.com/package/date-fns?activeTab=versions)
 -  [Material-UI](https://mui.com/)
 
-## Installation
-1. Head to database.sql and follow the instructions to setup the PostgreSQL database
 
-2. Open your IDE's console and run `npm install` (Installs all program dependencies)
-
-4. To initialize the server, run `npm run server` in your terminal
-
-5. To initialize the client and view in browser, run `npm run client` in your terminal
 
 ## Teacher Usage
 ![](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Teacher.gif)
@@ -79,16 +77,7 @@ There are two components to this application:
 
 6. On the "Staff" page admins can edit the names of existing Create MPLS staff and deactivate staff
 
-## Built With
- - PostgreSQL
- - Express
- - React 
- - Node
- - CSS3
- - HTML5
- - Redux
- - Passport
- - Restful API
+
 
   
 
