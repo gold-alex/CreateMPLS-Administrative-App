@@ -10,7 +10,7 @@
 **Duration:** 2 week sprint
 
 
-**Dev Team:** [@gold-alex](https://github.com/gold-alex), [@Renrek](github.com/Renrek), [@kettlerc](https://github.com/kettlerc), [@ChristianFred](https://github.com/ChristianFred)
+**Dev Team:** [@gold-alex](https://github.com/gold-alex), [@Renrek](https://github.com/Renrek), [@kettlerc](https://github.com/kettlerc), [@ChristianFred](https://github.com/ChristianFred)
 
 
 This application allows Create MPLS to manage students, teachers, volunteers, and programs between locations. 
