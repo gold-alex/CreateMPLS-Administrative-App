@@ -23,7 +23,7 @@ There are two components to the application.
 
   
 
-![Project Flowchart Diagram](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/creatempls_diagram.png?token=AT63ESZIA3LZQKOEYNU2VBTBO4L32)
+![Project Flowchart Diagram](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/creatempls_diagram.png)
 
   
 
