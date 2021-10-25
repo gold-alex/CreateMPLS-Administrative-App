@@ -52,7 +52,7 @@ There are two components to the application.
 5. To initialize the client and view in browser, run `npm run client` in your terminal. 
 
 ## Teacher Usage
-![enter image description here](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Teacher.gif?token=AT63ES6MSI54GLWZCS33Z7LBO4MGQ)
+![](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Teacher.gif)
 
 1. Register to make a new account and input the given teacher registration code.
 
@@ -73,10 +73,10 @@ There are two components to the application.
 1. Register to make a new account and input the given admin registration code.
 
 2. Log in and you will be taken to the Dashboard containing graphs and charts on student breakdown and data grids below displaying all student, teacher, and attendance data. To change registration codes for administrators and teachers, head to the bottom of the page to find the update fields.
-![enter image description here](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Dashboard-Charts.gif?token=AT63ES42CRSVUC225WXPGWTBO4KP6)
+![](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Dashboard-Charts.gif)
 
 3. On the "Students" page, admins can add students, edit existing students, and view and filter existing students. 
-![enter image description here](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Student-Page.gif?token=AT63ES2D4TAM6HBKN3MV7MLBO4LO4)
+![](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Student-Page.gif)
 
 5. On the "Programs" page admins can create new programs and assign teachers and students to existing programs. (Note: Only  teachers can be added to programs, admins DO NOT show up.) On the bottom of the page, admins can view and filter existing programs. 
 
