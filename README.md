@@ -8,6 +8,8 @@
 **Create MPLS is a non-profit dedicated to preparing students in underserved communities for rewarding careers by providing accessible STEM learning programs at no cost to students or families**
 
 **Duration:** 2 week sprint
+**Dev Team:** @gold-alex, @Renrek, @kettlerc, @ChristianFred
+
 
 This application allows Create MPLS to manage students, teachers, volunteers, and programs between locations. 
 
