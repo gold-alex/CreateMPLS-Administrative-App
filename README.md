@@ -20,9 +20,6 @@ There are two components to the application.
 
 
 ## Flow Diagram
-
-  
-
 ![Project Flowchart Diagram](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/creatempls_diagram.png)
 
   
@@ -40,28 +37,26 @@ There are two components to the application.
 -  [Material-UI](https://mui.com/)
 
 ## Installation
-
-  
-
-1. Head to database.sql and follow the instructions to setup the PostgreSQL database.
+1. Head to database.sql and follow the instructions to setup the PostgreSQL database
 
 2. Open your IDE's console and run `npm install` (Installs all program dependencies)
 
 4. To initialize the server, run `npm run server` in your terminal
 
-5. To initialize the client and view in browser, run `npm run client` in your terminal. 
+5. To initialize the client and view in browser, run `npm run client` in your terminal
 
 ## Teacher Usage
 ![](https://raw.githubusercontent.com/gold-alex/create-mpls-gifs/main/Teacher.gif)
 
-1. Register to make a new account and input the given teacher registration code.
+1. Register to make a new account and input the given teacher registration code
 
-2. Log in and you will be taken to a screen displaying all of the classes assigned to you.
+2. Log in and you will be taken to a screen displaying all of the classes assigned to you
 
-3. Click on the class you'd like to take attendance for.
+3. Click on the class you'd like to take attendance for
 
-4. Configure class date, length, and volunteer count.
-5. Click a student's name to mark them present.
+4. Configure class date, length, and volunteer count
+
+5. Click a student's name to mark them present
 
 6. Press submit to submit attendance data to the database
 
@@ -80,11 +75,9 @@ There are two components to the application.
 
 5. On the "Programs" page admins can create new programs and assign teachers and students to existing programs. (Note: Only  teachers can be added to programs, admins DO NOT show up.) On the bottom of the page, admins can view and filter existing programs. 
 
-6. On the "Staff" page admins can edit the names of existing Create MPLS staff as well as deactivate staff.
-
+6. On the "Staff" page admins can edit the names of existing Create MPLS staff and deactivate staff.
 
 ## Built With
-
  - PostgreSQL
  - Express
  - React 
@@ -98,21 +91,12 @@ There are two components to the application.
   
 
 ## Directory Structure
-
-  
-
--  `src/` React source directory
-
+-  `src/` react source directory
 -  `components/` contains react components 
-
 -  `public/` contains static assets for the client-side
-
 -  `server/` express server and authentication middleware
-
 -  `server.js/` contains server files
-
 -  `routes/` REST endpoints 
-
--  `database.sql/` contains the database tables and info needed to create db.
+-  `database.sql/` contains the database tables and info needed to create db
 
   
