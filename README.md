@@ -13,7 +13,7 @@ This application allows Create MPLS to manage students, teachers, volunteers, an
 
 Goodbye spreadsheets! This application effortlessly generates graphic materials and data needed for current and future grant applications. 
 
-There are two components to the application. 
+There are two components to this application:
 
  1. The mobile oriented side (for teachers) allows teachers to easily take attendance for their classes
  2. The desktop oriented side (for admins) allows admins to manage programs, students, and staff and view all data. 
@@ -26,9 +26,7 @@ There are two components to the application.
 
 ### Prerequisites
 -  [Node.js](https://nodejs.org/en/)
-
 -  [PostgreSQL](https://www.postgresql.org/)
-
 -  [Nodemon](https://nodemon.io/)
 -  [React-Chartjs-2](https://www.npmjs.com/package/react-chartjs-2/) 
  -  [React-Select-Search](https://www.npmjs.com/package/react-select-search) 
@@ -60,7 +58,7 @@ There are two components to the application.
 
 6. Press submit to submit attendance data to the database
 
-(Optional) If needed, edit attendance by scrolling down on the home screen. A list of dates of previously submitted attendance will be available. Simply tap the date you want to change and update students present.
+(Optional) Update attendance by scrolling down on the home screen to "Recent Attendance", selecting a date, and editing the students present.
 
   
 ## Admin Usage
